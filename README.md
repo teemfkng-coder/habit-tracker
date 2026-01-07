@@ -38,6 +38,11 @@ habit_tracker/
 ├─ run_app.ipynb # Demo notebook
 ├─ run_tests.ipynb # Test execution notebook
 └─ README.md
+├── screenshots/
+│   ├── app_demo_1.png
+│   ├── app_demo_2.png
+│   ├── app_demo_3.png
+│   └── tests_passing.png
 ```
 
 
@@ -138,6 +143,22 @@ pip install pytest
 - Viewing completion history
 
 - Computing streak analytics
+
+---
+## Application Demo
+
+### Import and Create Habits
+![Create habits demo](screenshots/app_demo_1.png)
+
+### List habits
+![List Habits demo](screenshots/app_demo_2.png)
+
+### Mark Completion, View Completion History and Compute Analytics
+![Completion history and analytics demo](screenshots/app_demo_3.png)
+
+### Tests Passing
+![Pytest results](screenshots/tests_passing.png)
+
 
 ---
 ## Running Tests
