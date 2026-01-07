@@ -17,5 +17,5 @@ venv/
 .env/
 
 # SQLite database (uncomment if you decide NOT to commit the DB)
-# *.db
+ *.db
 
